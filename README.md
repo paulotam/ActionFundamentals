@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training.
+Repo for the `GitHub Actions Fundamentals` training. Change by Paulo to test changes to read me and its effect on the workflow.
 
 ## 👉 Objectives
 
